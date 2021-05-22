@@ -1,4 +1,19 @@
-### Hi there 👋
+
+## Hi! I'm Bonnie 👋
+
+### I'm a Fullstack Developer @ UW Blueprint, Product Designer and 2nd Year CS student @ UWaterloo. 
+I'm also an avid learner, **proud generalist**, and a psychology major in spirit 😄 Oh, and a proud mother of two big stuffies :)
+
+#### My pillars
+- 🤩 Bring moments of "wow" into the world for others 
+- 💫 Create value by designing unique experiences or developing unique solutions
+- 🔗 Connect ideas in new ways and with those around me 
+
+#### What I'm up to:
+- 😄 Searching for a Fall 2021 internship 
+- 📖 Binging Harvard Business Review articles (I'm obsessed with organizational psychology)
+- 💬 Sharing randomly deep thoughts on [Twitter](https://twitter.com/bobawithbonnie)
+- 🧸 Squishmallows 
 
 <!--
 **bonnie-chin/bonnie-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
