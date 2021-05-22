@@ -13,7 +13,7 @@ I'm also an avid learner, **proud generalist**, and a psychology major in spirit
 - 😄 Searching for a Fall 2021 internship 
 - 📖 Binging Harvard Business Review articles (I'm obsessed with organizational psychology)
 - 💬 Sharing randomly deep thoughts on [Twitter](https://twitter.com/bobawithbonnie)
-- 🧸 Squishmallows 
+- 🧸 Caring for my squishmallows (their names are Patrick and Wasabi :)
 
 <!--
 **bonnie-chin/bonnie-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
