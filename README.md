@@ -13,7 +13,7 @@ I'm also an avid learner, **proud generalist**, and a psychology major in spirit
 - 🔍 Searching for a Fall 2021 internship 
 - 📚 Reading "[Algorithms to Live By](https://www.google.com/search?q=algorithms+to+live+by&oq=algorithms+to+live+by+&aqs=chrome..69i57j35i39j0l8.6695j0j7&sourceid=chrome&ie=UTF-8)" by Brian Christian
 - 📃 Binging Harvard Business Review articles (I'm obsessed with organizational psychology)
-- 💬 Sharing randomly deep thoughts on [Twitter](https://twitter.com/bobawithbonnie)
+- 📢 Sharing randomly deep thoughts on [Twitter](https://twitter.com/bobawithbonnie)
 
 <!--
 **bonnie-chin/bonnie-chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
