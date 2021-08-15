@@ -10,7 +10,7 @@ I'm also an avid learner, **proud generalist**, and a psychology major in spirit
 - 🔗 Connect ideas in new ways and with those around me 
 
 #### What I'm up to:
-- 🔍 Experience Design F21 Intern @ [Konrad](konrad.com)
+- 🔍 Experience Design F21 Intern @ [Konrad](https://www.konrad.com)
 - 📚 Reading "[Algorithms to Live By](https://www.google.com/search?q=algorithms+to+live+by&oq=algorithms+to+live+by+&aqs=chrome..69i57j35i39j0l8.6695j0j7&sourceid=chrome&ie=UTF-8)" by Brian Christian
 - 📃 Binging Harvard Business Review articles (I'm obsessed with organizational psychology)
 - 📢 Sharing randomly deep thoughts on [Twitter](https://twitter.com/bobawithbonnie)
