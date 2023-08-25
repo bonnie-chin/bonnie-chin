@@ -1,7 +1,7 @@
 
 ## Hi! I'm Bonnie 👋
 
-### I'm a Software Engineer Intern at Zynga, Product Designer and 3rd Year CS student @ UWaterloo. 
+### I'm Design Engineer @ Spatial, Product Designer and 3rd Year CS student @ UWaterloo. 
 I'm also an avid learner, **proud generalist**, and a psychology major in spirit 😄 Oh, and a proud mother of two big stuffies :)
 
 #### My pillars
